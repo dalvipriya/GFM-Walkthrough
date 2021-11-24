@@ -1,1 +1,1 @@
-# GFM-Walktrough
+# GFM-Walkthrough
