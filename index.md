@@ -15,6 +15,7 @@ Below is the screenshot of the content.
 **_Note: Image names must not have space(s)._**
 
 # Emojis
+
 | Emoji | Syntax |
 | ------- | -------- |
 | Smile | :smile: |
