@@ -21,6 +21,7 @@ Below is the screenshot of the content.
 | Wink | :wink: |
 | Laugh | :rofl: |
 
+
 # References
 [Click here to refer the manual](DDSYOverview.pdf)
 
