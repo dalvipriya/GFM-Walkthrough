@@ -16,7 +16,7 @@ Below is the screenshot of the content.
 
 # Emojis
 | Emoji | Syntax |
-|-------|--------|
+| ------- | -------- |
 | Smile | :smile: |
 | Wink | :wink: |
 | Laugh | :rofl: |
