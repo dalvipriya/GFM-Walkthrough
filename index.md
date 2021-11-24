@@ -5,4 +5,5 @@ While GFM supports a wide range of inputs, it’s worth noting that GitHub.com a
 
 # Writing in GITHub
 Below is the screenshot of the content. 
-![Image](imagename)
+![Image](Writing in Git.png)
+
