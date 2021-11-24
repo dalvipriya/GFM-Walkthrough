@@ -1,3 +1,8 @@
+# Table of Contents
+[Introduction to GFM](#introduction)
+
+[Writing in GITHUB](#writing-in-github)
+
 # Introduction
 GitHub Flavored Markdown, often shortened as GFM, is the dialect of Markdown that is currently supported for user content on GitHub.com and GitHub Enterprise.
 This formal specification, based on the CommonMark Spec, defines the syntax and semantics of this dialect.
@@ -17,3 +22,9 @@ Below is the screenshot of the content.
 | Laugh | :rofl: |
 
 # References
+[Click here to refer the manual](DDSYOverview.pdf)
+
+# Links
+[Link #1](https://github.github.com/gfm/)
+
+[Link #2](https://guides.github.com/features/mastering-markdown/)
